@@ -1,2 +1,2 @@
-Indoor Air Toolset (Gas Stove Kitchen) 🏠🔥🧪
+# Indoor Air Toolset (Gas Stove Kitchen) 🏠🔥🧪
 A lightweight toolset to compare two methane/NOx reduction options for gas-stove kitchens using a simple single-zone indoor model. Alterantive A electrifies to near-zero emissions; Alternative B uses a high-efficiency range hood with extra ventilation. Outputs include pollutant concentration estimates and MCDA-style rankings. Python scripts with an optional PyScript UI for GitHub Pages.
